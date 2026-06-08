@@ -1,7 +1,7 @@
 This repository contains supplementary scripts and processed data for the master thesis.
 
 Main contents:
-- scripts/: Python scripts used for pressure logging, video processing, signal alignment, peak extraction, stiffness estimation, and plotting.
+- scripts/: Python scripts used for pressure logging, video processing, signal alignment, peak extraction, stiffness estimation, and plotting. Arduino scripts used for running test rig.
 - data/: processed CSV files used for actuator characterization.
 - videos/: links to supplementary prototype test videos.
 
