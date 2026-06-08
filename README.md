@@ -3,7 +3,6 @@ This repository contains supplementary scripts and processed data for the master
 Main contents:
 - scripts/: Python scripts used for pressure logging, video processing, signal alignment, peak extraction, stiffness estimation, and plotting.
 - data/: processed CSV files used for actuator characterization.
-- figures/: supplementary figures showing aligned signals and peak detection.
 - videos/: links to supplementary prototype test videos.
 
 The scripts were developed for the experimental workflow used in the thesis and may require path adjustments before reuse.
